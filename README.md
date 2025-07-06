@@ -28,22 +28,23 @@ ai-local-seo-dashboard/
 ## 🛠 Local Setup Instructions
 
 ### Backend – Express API
-
+```bash
 cd backend
 npm install
 node index.js
+```
 
 ### Frontend – React App
-
+```bash
 cd frontend
 npm install
 npm start
-
+```
 ---
 
-🔌 REST API Endpoints
+## 🔌 REST API Endpoints
 
-1. POST /business-data
+### 1. POST /business-data
 
 Description: Accepts a business name & location, returns simulated data.
 
@@ -60,7 +61,7 @@ Response:
   "headline": "Why Cake & Co is Mumbai's Sweetest Spot in 2025"
 }
 
-2. GET /regenerate-headline?name=...&location=...
+### 2. GET /regenerate-headline?name=...&location=...
 
 Description: Returns a new SEO-style headline each time from a static list.
 
