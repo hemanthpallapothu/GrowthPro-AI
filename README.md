@@ -38,6 +38,7 @@ cd frontend
 npm install
 npm start
 
+---
 
 🔌 REST API Endpoints
 
@@ -67,19 +68,23 @@ Example Response:
   "headline": "Discover Why Cake & Co is a Hidden Gem in Mumbai"
 }
 
- ✨ Features
-	- 🎯 Minimalistic business input form
-	- ⭐ Simulated Google rating + review count
-	- 🧠 AI-styled SEO headline generation
-	- 🔁 Regeneration button with real-time updates
-	- 📱 Fully responsive UI (built with Tailwind)
+---
 
+ ## ✨ Features
+- 🎯 Minimalistic business input form
+- ⭐ Simulated Google rating + review count
+- 🧠 AI-styled SEO headline generation
+- 🔁 Regeneration button with real-time updates
+- 📱 Fully responsive UI (built with Tailwind)
+  
+---
+## 🌐 Live Demo Links
 
-🌐 Live Demo Links
-	- 🧩 Frontend (Netlify): https://euphonious-truffle-3e1da4.netlify.app/
-	- 🔌 Backend (Vercel): https://backend-phi-one-46.vercel.app/
-	- 💾 GitHub Repo: https://github.com/hemanthpallapothu/GrowthPro-AI/
-⸻
+- 🧩 Frontend (Netlify): https://euphonious-truffle-3e1da4.netlify.app/
+- 🔌 Backend (Vercel): https://backend-phi-one-46.vercel.app/
+- 💾 GitHub Repo: https://github.com/hemanthpallapothu/GrowthPro-AI/
+
+---
 
 👤 Author
 
