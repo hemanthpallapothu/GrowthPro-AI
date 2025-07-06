@@ -68,17 +68,17 @@ Example Response:
 }
 
 ✨ Features
-	•	🎯 Minimalistic business input form
-	•	⭐ Simulated Google rating + review count
-	•	🧠 AI-styled SEO headline generation
-	•	🔁 Regeneration button with real-time updates
-	•	📱 Fully responsive UI (built with Tailwind)
+	🎯 Minimalistic business input form
+	⭐ Simulated Google rating + review count
+	🧠 AI-styled SEO headline generation
+	🔁 Regeneration button with real-time updates
+	📱 Fully responsive UI (built with Tailwind)
 
 
 🌐 Live Demo Links
-	•	🧩 Frontend (Netlify): https://euphonious-truffle-3e1da4.netlify.app/
-	•	🔌 Backend (Vercel): https://backend-phi-one-46.vercel.app/
-	•	💾 GitHub Repo: https://github.com/hemanthpallapothu/GrowthPro-AI/
+	🧩 Frontend (Netlify): https://euphonious-truffle-3e1da4.netlify.app/
+	🔌 Backend (Vercel): https://backend-phi-one-46.vercel.app/
+	💾 GitHub Repo: https://github.com/hemanthpallapothu/GrowthPro-AI/
 ⸻
 
 👤 Author
