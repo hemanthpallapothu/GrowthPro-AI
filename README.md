@@ -7,10 +7,11 @@ Built using the **MERN-style stack without a database**, this tool showcases rap
 ---
 
 ## 🧱 Directory Overview
+```
 ai-local-seo-dashboard/
 ├── frontend/   → React + Tailwind CSS
 └── backend/    → Node.js + Express.js
-
+```
 ---
 
 ## 💻 Tech Stack
