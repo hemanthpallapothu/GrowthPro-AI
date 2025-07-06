@@ -1,0 +1,10 @@
+POST http://localhost:3000/business-data/
+Content-Type: application/json
+
+{
+  "name": "Cake & Co", "location": "Mumbai"
+}
+
+###
+
+GET http://localhost:3000/regenerate-headline?name=hemanth&location=banglore
